@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.iblack7.com/5k/k4.git"
+    "url": "https://github.com/BlueWhiteHeart/L0-R4-T000180.git"
   },
   "keywords": [
     "static",
     "server"
   ],
-  "author": "Scott",
+  "author": "刘博翔",
   "license": "ISC"
 }
